@@ -41,10 +41,6 @@ ul {
   opacity: 0.5;
 }
 
-.certifications li {
-  opacity: 0.5;
-}
-
 .hero {
     background: var(--secondary-color);
     text-align: center;
